@@ -1,6 +1,6 @@
-Curso de Webpack 4
+Curso [Webpack 4: Beyond the Basics](https://www.udemy.com/course/webpack-beyond-the-basics/)
 
-## Modulo 2
+## Modulo 1 & 2
 
 ### webpack
 
@@ -38,3 +38,9 @@ Curso de Webpack 4
 - webpack-hot-middleware
 - webpack-dev-middleware
 - nodemon
+
+## Modulo 3
+
+### react
+
+- branch webpack-react
