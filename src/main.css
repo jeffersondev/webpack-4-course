@@ -1,0 +1,45 @@
+/*
+  Pallete color https://www.colourlovers.com/palette/995245/Metal_Gear_Solid
+    #054500
+    #2D542A
+    #1C331A
+    #5A6959
+    #2C2E2C
+*/
+
+body {
+  margin: 0;
+  background-color: #5a6959;
+}
+
+.profile {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+img {
+  border-radius: 100%;
+  box-shadow: 3px 3px 10px 0px black;
+}
+
+img:hover {
+  border-radius: 100%;
+  box-shadow: 3px 3px 10px 5px black;
+}
+
+h1.title {
+  color: #2c2e2c;
+  font-size: 5em;
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 100%;
+}
+
+h1.title:hover {
+  opacity: 0.8;
+  transform: scale(1.1);
+}
